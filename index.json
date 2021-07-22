@@ -19,11 +19,19 @@
     "currency": "USD"
   },
   "total": {
-    "amount": 8917,
+    "amount": 9808.7,
     "currency": "USD"
   },
-  "discounts": [],
-  "taxes": [],
+  "discounts": [
+
+  ],
+  "taxes": [
+    {
+      "type": "sales tax",
+      "amount": 891.7,
+      "currency": "USD"
+    }
+  ],
   "shipping": {
     "address": {
       "firstName": "Kevan",
